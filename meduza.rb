@@ -1,5 +1,5 @@
 require 'sinatra'
-require_relative 'meduza-rss'
+require_relative 'gamemag-rss'
 
 get '/' do
   content_type :html
